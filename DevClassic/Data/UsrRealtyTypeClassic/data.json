@@ -95,30 +95,6 @@
           "Value": "\/Date(1731570056730+0700)\/"
         }
       ]
-    },
-    {
-      "Row": [
-        {
-          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
-          "Value": "d55744f8-3f72-4e42-9536-a50b0c705291"
-        },
-        {
-          "SchemaColumnUId": "82f1ec33-3f23-a760-fea1-d0e4884e4606",
-          "Value": "777"
-        },
-        {
-          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
-          "Value": "\/Date(1731570112745+0700)\/"
-        },
-        {
-          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
-          "Value": ""
-        },
-        {
-          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
-          "Value": "\/Date(1731570112745+0700)\/"
-        }
-      ]
     }
   ]
 }
